@@ -1,0 +1,698 @@
+keys_,count,label
+economy,1542,economy
+business,1064,economy
+science and technology,903,science&technology
+international,772,international relations
+china,692,international relations
+defence,678,defence
+covid-19,652,health
+socio-economic,595,society
+sports,576,sports
+environment,554,environment
+government schemes,542,governance
+cabinet decisions,514,polity
+rbi,494,economy
+us,446,international relations
+india-international relations,445,international relations
+united nations,433,international relations
+agriculture,422,agriculture
+awards,412,culture
+days and events,396,culture
+supreme court,364,polity
+public health,325,health
+usa,312,international relations
+russia,312,international relations
+banking,311,economy
+diseases,296,health
+appointments,291,polity
+nasa,278,science&technology
+japan,276,international relations
+education,270,society
+climate change,270,environment
+indian navy,267,defence
+health,266,health
+pakistan,266,defence
+upsc,261,polity
+clat,250,polity
+isro,249,science&technology
+indian railways,239,governance
+niti aayog,232,governance
+united states,231,international relations
+world bank,230,economy
+india-us,223,international relations
+who,214,international relations
+lok sabha,207,polity
+cricket,203,sports
+drdo,201,science&technology
+bills and amendments,199,governance
+india china,198,international relations
+committees,198,governance
+indian army,187,defence
+bangladesh,172,international relations
+bills and acts,169,governance
+uk,164,international relations
+ministry of power,164,science&technology
+un,156,international relations
+unesco,153,culture
+infrastructure,149,economy
+reserve bank of india,140,economy
+terrorism,137,defence
+taxation,137,economy
+corona virus,137,health
+space technology,136,science&technology
+places in news,135,culture
+events,131,culture
+tourism,129,culture
+pm modi,129,polity
+renewable energy,129,environment
+nepal,125,international relations
+germany,123,international relations
+reserve bank of india (rbi),122,economy
+india- pakistan,119,defence
+india-bangladesh,116,international relations
+ccea,116,polity
+make in india,116,governance
+women empowerment,116,society
+india-russia,114,international relations
+indian military exercises,114,defence
+united kingdom,114,international relations
+covid-19 vaccine,112,health
+indian air force,111,defence
+canada,110,international relations
+parliament,109,polity
+women related issues,108,society
+sri lanka,107,international relations
+e-governance,106,governance
+art and culture,106,culture
+iran,102,international relations
+brazil,101,geography
+disaster management,101,defence
+singapore,100,culture
+brics,100,international relations
+india-japan,98,international relations
+afghanistan,96,international relations
+european union,96,international relations
+sebi,95,economy
+south korea,94,international relations
+rajya sabha,94,polity
+indian diaspora,94,culture
+google,92,science&technology
+ministry of home affairs,92,defence
+solar energy,90,environment
+ministry of health and family welfare,89,society
+digital india,89,science&technology
+world health organisation (who),88,health
+trade,88,economy
+biology,87,science&technology
+global warming,87,science&technology
+unga,86,polity
+missile technology,85,science&technology
+election commission,84,governance
+power sector,84,economy
+military exercises,82,defence
+icmr,82,history
+football,81,sports
+saudi arabia,81,defence
+goa,79,culture
+switzerland,79,geography
+elections,79,polity
+air pollution,79,environment
+south africa,78,international relations
+gst,78,economy
+prime minister narendra modi,77,governance
+msme,77,economy
+biotechnology,75,science&technology
+president,75,polity
+africa,74,environment
+india-nepal,74,international relations
+sbi,72,international relations
+israel,72,international relations
+union cabinet,72,polity
+sustainable development goals,72,environment
+uae,70,international relations
+imf,69,economy
+new zealand,69,international relations
+pollution,68,environment
+facebook,67,science&technology
+csir,67,science&technology
+india-france,66,international relations
+ministry of finance,64,economy
+ease of doing business,64,economy
+india-uk,63,international relations
+unicef,63,health
+e-commerce,63,economy
+ministry of external affairs,62,international relations
+culture,62,culture
+europe,62,international relations
+skill development,62,economy
+india-world bank,61,international relations
+internal security,61,defence
+syria,59,international relations
+malaysia,59,international relations
+ukraine,59,international relations
+space,59,science&technology
+united nations general assembly,59,international relations
+atma nirbhar bharat abhiyan,59,governance
+badminton,58,sports
+ministry of women and child development,58,society
+indian ocean region,58,international relations
+asean,57,international relations
+india-sri lanka,57,international relations
+economic growth,57,economy
+delhi government,57,governance
+g20,57,international relations
+books,56,history
+indian coast guard,56,defence
+myanmar,55,international relations
+iucn,55,international relations
+ministry of defence,54,defence
+artificial intelligence,54,science&technology
+memorandum of understanding,54,polity
+wto,53,economy
+thailand,53,international relations
+government policies,53,governance
+nato,52,defence
+finance ministry,52,economy
+government of india,52,governance
+nabard,51,agriculture
+aviation sector,51,science&technology
+lock down,51,economy
+hockey,50,sports
+italy,50,international relations
+spain,50,international relations
+india-israel,50,international relations
+exports,50,economy
+astronomy,50,science&technology
+energy sector,50,economy
+sustainable development,50,environment
+cbdt,49,economy
+cyber-security,49,science&technology
+gdp,49,economy
+farmer welfare,49,agriculture
+azadi ka amrit mahotsav,49,history
+eu,48,international relations
+norway,48,international relations
+philippines,48,international relations
+adb,48,international relations
+indian ocean,48,defence
+denmark,47,international relations
+spacex,47,science&technology
+international relations,47,international relations
+turkey,46,international relations
+unsc,46,international relations
+nuclear energy,46,science&technology
+international organisations,46,international relations
+nirmala sitharaman,46,economy
+migrant workers,46,society
+india-myanmar,45,international relations
+nobel prize,45,science&technology
+netherlands,45,defence
+ministry of human resource development,45,polity
+saarc,45,defence
+government policy,45,governance
+ayurveda,45,science&technology
+ayush,45,science&technology
+fssai,45,governance
+employment,45,economy
+world economic forum,45,economy
+sweden,44,international relations
+social issues,44,society
+railways,43,governance
+trai,43,economy
+vietnam,43,international relations
+asian development bank,43,international relations
+history,43,history
+rajnath singh,43,defence
+mahatma gandhi,43,history
+south china sea,43,international relations
+transportation,43,economy
+rural development,43,agriculture
+donald trump,43,international relations
+ministry of railways,42,governance
+argentina,42,international relations
+india-australia,42,international relations
+ministry of commerce and industry,42,economy
+black money,42,society
+india-usa,41,international relations
+india-africa,41,international relations
+food security,41,economy
+malaria,41,health
+iucn red list,41,international relations
+bhutan,40,international relations
+mexico,40,international relations
+energy,40,economy
+amazon,40,environment
+water conservation,40,environment
+maritime security,40,defence
+telecom sector,40,economy
+innovation,40,science&technology
+finland,39,international relations
+hong kong,39,international relations
+india-uae,39,international relations
+tuberculosis,39,health
+human rights,39,society
+government initiatives,39,governance
+undp,39,society
+startups,39,science&technology
+gst council,39,economy
+electric vehicles,39,science&technology
+chief justice of india,38,polity
+manufacturing,38,economy
+home ministry,38,defence
+energy security,38,economy
+military exercise,38,defence
+india-maldives,37,international relations
+north korea,37,defence
+icici bank,37,economy
+swachh bharat mission,37,governance
+pranab mukherjee,37,governance
+aadhaar,37,governance
+constitution,37,polity
+microsoft,37,science&technology
+drugs,37,health
+telecommunications,37,science&technology
+ram nath kovind,37,governance
+indo-pacific,37,international relations
+coronavirus,37,health
+iraq,36,international relations
+ministry of information and broadcasting,36,governance
+england,36,international relations
+asia,36,international relations
+mgnrega,36,economy
+food safety,36,society
+reservation,36,polity
+it sector,36,science&technology
+nitin gadkari,36,governance
+governance,36,governance
+aiims,36,health
+biodiversity,36,environment
+gi tag,36,culture
+world health organisation,36,health
+corruption,35,society
+financial inclusion,35,economy
+isis,35,defence
+imd,35,science&technology
+wildlife protection,35,environment
+paris agreement,35,environment
+iit-madras,35,science&technology
+ministry of environment and forests,34,environment
+telecommunication,34,governance
+ministry of road transport and highways,34,geography
+ministry of culture,34,culture
+bcci,34,sports
+coal,34,economy
+indian space research organisation (isro),34,science&technology
+cii,34,economy
+international solar alliance,34,science&technology
+international monetary fund,34,economy
+india-germany,33,international relations
+india-afghanistan,33,international relations
+ministry of tourism,33,culture
+chile,33,international relations
+jammu & kashmir,33,governance
+european union (eu),33,international relations
+mars,33,science&technology
+internet,33,science&technology
+us-china,33,international relations
+intellectual property,33,economy
+ministry of ayush,33,health
+defence research and development organisation,33,science&technology
+cabinet approval,33,polity
+united nations general assembly (unga),33,international relations
+india-vietnam,32,international relations
+maldives,32,international relations
+investment,32,economy
+world health organization,32,health
+asian development bank (adb),32,international relations
+hiv,32,health
+cybersecurity,32,science&technology
+inflation,32,economy
+counter-terrorism,32,defence
+sdg,32,environment
+covid 19 pandemic,32,health
+india-bhutan,31,international relations
+nigeria,31,international relations
+military,31,defence
+south asia,31,international relations
+naval exercises,31,defence
+india-adb,31,international relations
+malnutrition,31,society
+ministry of housing and urban affairs,31,governance
+health care,31,health
+indian council of medical research (icmr),31,science&technology
+mauritius,30,international relations
+petroleum sector,30,international relations
+united nations security council,30,international relations
+world health organization (who),30,health
+electric vehicle,30,science&technology
+north east development,30,society
+international monetary fund (imf),30,economy
+missiles,29,defence
+cbi,29,governance
+geography,29,geography
+investments,29,economy
+memorandum of understanding (mou),29,governance
+repo rate,29,economy
+pharma sector,29,health
+western ghats,29,environment
+mou,29,governance
+iit delhi,29,science&technology
+wef,29,economy
+technology,29,science&technology
+health ministry,29,health
+national mission for clean ganga,29,environment
+artificial intelligence (ai),29,science&technology
+navy,28,defence
+ireland,28,international relations
+chess,28,sports
+taiwan,28,international relations
+india-saudi arabia,28,international relations
+qatar,28,international relations
+kazakhstan,28,international relations
+india-asean,28,international relations
+defense,28,defence
+indian air force (iaf),28,defence
+high courts,28,polity
+delhi high court,28,polity
+poverty,28,society
+imports,28,economy
+election commission of india,28,polity
+indian railway,28,governance
+covaxin,28,health
+cabinet committee on economic affairs (ccea),27,economy
+world wildlife fund,27,environment
+belgium,27,international relations
+general election 2014,27,polity
+ganga river,27,environment
+indian armed forces,27,defence
+defence research and development organisation (drdo),27,science&technology
+natural disaster,27,environment
+pacific ocean,27,environment
+ministry of earth sciences,27,geography
+act east policy,27,governance
+defence ministry,27,defence
+higher education,27,society
+electricity,27,environment
+indian space research organisation,27,science&technology
+mobile application,27,science&technology
+unemployment,27,economy
+judiciary,26,polity
+healthcare,26,health
+india-south korea,26,international relations
+india-china border dispute,26,international relations
+finance,26,economy
+olympics,26,sports
+chennai,26,defence
+irrigation,26,environment
+bay of bengal,26,geography
+weather forecasting,26,geography
+digital economy,26,economy
+hrd ministry,26,society
+border issues,26,defence
+president of india,26,polity
+unesco world heritage site,26,culture
+ministry of home affairs (mha),25,defence
+india-iran,25,international relations
+ministry of science and technology,25,science&technology
+hal,25,science&technology
+insurance,25,economy
+department of science and technology (dst),25,science&technology
+ballistic missile,25,defence
+mining,25,geography
+nasscom,25,science&technology
+chabahar port,25,geography
+health sector,25,health
+social security,25,society
+chief minister,25,polity
+international space station,25,science&technology
+sanitation,25,health
+reports,25,polity
+virus,25,health
+ministry of rural development,24,agriculture
+uidai,24,geography
+ministry of textiles,24,geography
+india-un,24,international relations
+ministry of civil aviation,24,international relations
+bilateral,24,international relations
+asia-pacific,24,international relations
+world war ii,24,history
+iit kharagpur,24,science&technology
+zika virus,24,health
+security,24,defence
+bimstec,24,international relations
+brexit,24,history
+northeast,24,geography
+clinical trials,24,health
+united arab emirates,24,international relations
+us-russia,24,defence
+quad,24,defence
+jal jeevan mission,24,health
+planning commission,23,polity
+wrestling,23,sports
+india-singapore,23,international relations
+ministry of tribal affairs,23,society
+ministry of drinking water and sanitation,23,health
+festivals,23,culture
+anti-dumping duty,23,governance
+solar power,23,environment
+atal innovation mission,23,science&technology
+ministry of petroleum and natural gas,23,environment
+guidelines,23,polity
+fisheries,23,governance
+european space agency,23,science&technology
+cites,23,geography
+aicte,23,environment
+department of science and technology,23,science&technology
+insolvency and bankruptcy code,23,economy
+2015 paris agreement,23,environment
+cabinet committee on economic affairs,23,economy
+delhi pollution,23,environment
+hdfc bank,22,economy
+science,22,science&technology
+pslv,22,science&technology
+indian economy,22,economy
+events and observances,22,culture
+crpf,22,polity
+abu dhabi,22,international relations
+china-pakistan,22,international relations
+ordinance,22,governance
+food processing,22,agriculture
+aids,22,health
+international trade,22,economy
+cancer,22,science&technology
+geographical indication,22,culture
+inland waterways,22,economy
+finance minister,22,economy
+bitcoin,22,economy
+income tax,22,economy
+united states of america,22,international relations
+article 370,22,defence
+employment generation,22,economy
+research and development,22,science&technology
+pradhan mantri garib kalyan ann yojana,22,society
+disinvestment,21,economy
+venezuela,21,international relations
+yemen,21,international relations
+science & technology,21,science&technology
+governor,21,polity
+republic day,21,history
+npci,21,governance
+governors,21,polity
+himalayas,21,environment
+manufacturing sector,21,economy
+drones,21,science&technology
+minimum support price,21,polity
+digital payments,21,governance
+vaccines,21,health
+ministry of electronics and information technology,21,science&technology
+fiscal deficit,21,economy
+indian council of medical research,21,science&technology
+doubling farmers income,21,economy
+pm-kisan,21,agriculture
+aatmanirbhar bharat,21,economy
+taliban in afghanistan,21,defence
+portugal,20,international relations
+scotland,20,international relations
+fifa,20,sports
+ebola,20,health
+national green tribunal,20,environment
+bilateral relations,20,international relations
+brahmos missile,20,defence
+nuclear weapons,20,science&technology
+india-indonesia,20,international relations
+pulses,20,agriculture
+tribal welfare,20,society
+ayush ministry,20,health
+monetary policy committee,20,economy
+pharmaceutical sector,20,science&technology
+cabinet decision,20,polity
+cryptocurrency,20,science&technology
+stubble burning,20,environment
+united nations development programme,20,environment
+oil imports,20,economy
+aayushman bharat,20,health
+union cabinet decisions,20,polity
+sustainable development goals (sdg) 2030,20,environment
+antarctica,19,geography
+monsoon,19,environment
+subsidy,19,governance
+smart city,19,geography
+election commission of india (eci),19,polity
+dna,19,science&technology
+swachh bharat abhiyaan,19,environment
+medical,19,health
+ministry of skill development and entrepreneurship,19,economy
+air india,19,economy
+buddhism,19,culture
+britain,19,defence
+scheduled tribes,19,society
+india-eu,19,international relations
+khelo india,19,sports
+plastic pollution,19,environment
+world economic outlook,19,economy
+5g,19,science&technology
+ministry of social justice and empowerment,19,society
+india meteorological department,19,environment
+food and agriculture organization,19,agriculture
+foreign direct investment,19,economy
+clean energy,19,environment
+gaganyaan,19,science&technology
+startup,19,economy
+joint military exercise,19,defence
+water pollution,19,environment
+water scarcity,19,environment
+economic slowdown,19,economy
+army,18,defence
+olive ridley,18,environment
+olive ridley turtles,18,environment
+lic,18,economy
+budget,18,economy
+nuclear missile,18,science&technology
+exoplanet,18,science&technology
+envrionment,18,polity
+policy,18,polity
+fisheries sector,18,governance
+drought,18,environment
+tsunami,18,geography
+panchayati raj,18,governance
+wheat,18,agriculture
+oil sector,18,economy
+1971 india-pakistan war,18,history
+gender equality,18,society
+cashless economy,18,economy
+pradhan mantri ujjwala yojana,18,governance
+journalism,18,society
+wind energy,18,environment
+wildlife conservation,18,environment
+space exploration,18,science&technology
+horticulture,18,agriculture
+brahmaputra river,18,geography
+drug trafficking,18,defence
+drinking water,18,environment
+food safety and standards authority of india (fssai),18,agriculture
+pradhan mantri awas yojana,18,defence
+2030 agenda for sustainable development,18,environment
+sputnik v,18,science&technology
+air force,17,defence
+conservation,17,environment
+nuclear power,17,science&technology
+yoga,17,health
+earthquake,17,geography
+tourism sector,17,culture
+solar system,17,science&technology
+animal husbandry,17,agriculture
+rice,17,agriculture
+women safety,17,society
+river ganga,17,environment
+food processing industry,17,agriculture
+ayushman bharat,17,health
+national food security act,17,agriculture
+wildlife protection act 1972,17,environment
+geneva,17,environment
+fit india movement,17,health
+migratory birds,17,environment
+iit bombay,16,science&technology
+remote sensing,16,science&technology
+elon musk,16,science&technology
+atal innovation mission (aim),16,science&technology
+blockchain technology,16,science&technology
+supreme court of india,16,polity
+union budget,16,economy
+taliban insurgency,16,defence
+cyclones,15,geography
+satellites,15,science&technology
+religion,15,culture
+genome sequencing,15,science&technology
+udan scheme,15,geography
+lunar mission,15,science&technology
+ministry of environment forests and climate change,15,environment
+wildlife institute of india,15,environment
+missile,15,defence
+government schemes india,15,governance
+ministry of corporate affairs,14,economy
+enviornment,14,environment
+wildlife,14,environment
+jupiter,14,science&technology
+chemistry,14,science&technology
+moon,14,science&technology
+monetary policy,14,economy
+scheduled castes,14,society
+celebrations,14,culture
+child labour,14,society
+biofuel,14,science&technology
+iit guwahati,14,science&technology
+internet of things,14,science&technology
+persons with disabilities,14,society
+defence technology,14,science&technology
+hubble space telescope,14,science&technology
+chief election commissioner,14,polity
+carbon dioxide,14,environment
+money laundering,14,economy
+border security force,14,defence
+un world food programme,14,agriculture
+reverse repo rate,14,economy
+natural gas,14,environment
+archaeological survey of india,14,culture
+pradhan mantri jan arogya yojana,14,health
+green hydrogen,14,environment
+mars mission,13,science&technology
+floods,13,geography
+falcon 9 rocket,13,science&technology
+iisc,13,science&technology
+organic farming,13,agriculture
+exim bank,13,economy
+non performing assets (npa),13,economy
+khelo india programme,13,health
+green house gas emissions,13,environment
+brahmaputra,13,geography
+kharif crops,13,agriculture
+second world war,13,history
+satellite,13,science&technology
+new species,13,environment
+india solar energy,13,environment
+global economy,12,economy
+kepler space telescope,12,science&technology
+blue economy,12,environment
+death penalty,12,polity
+quit india movement,12,history
+moon mission,12,science&technology
+machine learning,12,science&technology
+sugarcane,12,agriculture
+greenhouse gas,12,environment
+world meteorological organisation,12,geography
+solid waste management,12,environment
+uranium,11,science&technology
+nuclear deal,11,science&technology
+archaeological survey of india (asi),11,culture
+tribal development,11,society
+nag missile,11,defence
+dengue,11,health
+chandrayaan-2,11,science&technology
+cruise missile,11,science&technology
+ground water,11,environment
+exoplanets,11,science&technology
+cultural tourism,11,culture
+satish dhawan space centre,11,science&technology
+iit hyderabad,11,science&technology
+naval exercise,11,defence
+farmers,11,agriculture
