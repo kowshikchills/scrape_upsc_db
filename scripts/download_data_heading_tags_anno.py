@@ -1,6 +1,8 @@
 from tqdm import tqdm
 import pickle
 import boto3
+import pandas as pd
+import numpy as np
 
 __TableName__ = 'upsc_training_data'
 client  = boto3.client('dynamodb',region_name = 'ap-south-1')
@@ -21,3 +23,9 @@ with open('data/tags.pkl', 'wb') as f:
     pickle.dump(tags, f)
 with open('data/headings.pkl', 'wb') as f:
     pickle.dump(headings, f)
+    
+df = pd.DataFrame()
+df['headings'] = headings
+df['tags'] = tags
+df['TrainId'] = np.arange(len(df))
+df.to_pickle('UIdata/data_tagging.pkl')
